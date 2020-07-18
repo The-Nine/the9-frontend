@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the9-frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/the9-frontend/static/js/main.0e4092a1.chunk.js",
+    "main.js.map": "/the9-frontend/static/js/main.0e4092a1.chunk.js.map",
+    "runtime-main.js": "/the9-frontend/static/js/runtime-main.fafb96c3.js",
+    "runtime-main.js.map": "/the9-frontend/static/js/runtime-main.fafb96c3.js.map",
+    "static/js/2.7d936fef.chunk.js": "/the9-frontend/static/js/2.7d936fef.chunk.js",
+    "static/js/2.7d936fef.chunk.js.map": "/the9-frontend/static/js/2.7d936fef.chunk.js.map",
+    "index.html": "/the9-frontend/index.html",
+    "precache-manifest.244acb583f9dbdaeb24b0ec9b08772c1.js": "/the9-frontend/precache-manifest.244acb583f9dbdaeb24b0ec9b08772c1.js",
+    "service-worker.js": "/the9-frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/the9-frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7d936fef.chunk.js.LICENSE.txt": "/the9-frontend/static/js/2.7d936fef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/the9-frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafb96c3.js",
+    "static/js/2.7d936fef.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0e4092a1.chunk.js"
+  ]
+}
